@@ -32,12 +32,12 @@ I'm **Abdul Manan**, a passionate developer dedicated to building innovative tec
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmanan69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmanan69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulmanan69&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdul's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulmanan69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmanan69&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-sigma.vercel.app/?user=abdulmanan69&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -46,29 +46,29 @@ I'm **Abdul Manan**, a passionate developer dedicated to building innovative tec
 
 <p align="center">
   <a href="https://github.com/abdulmanan69/BulkMessageSender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulmanan69&repo=BulkMessageSender&theme=radical&hide_border=true" alt="BulkMessageSender" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdulmanan69&repo=BulkMessageSender&theme=radical&hide_border=true" alt="BulkMessageSender" />
   </a>
   <a href="https://github.com/abdulmanan69/SaferWebTweak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulmanan69&repo=SaferWebTweak&theme=radical&hide_border=true" alt="SaferWebTweak" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdulmanan69&repo=SaferWebTweak&theme=radical&hide_border=true" alt="SaferWebTweak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abdulmanan69/leadslicer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulmanan69&repo=leadslicer&theme=radical&hide_border=true" alt="leadslicer" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdulmanan69&repo=leadslicer&theme=radical&hide_border=true" alt="leadslicer" />
   </a>
   <a href="https://github.com/abdulmanan69/deepneurax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulmanan69&repo=deepneurax&theme=radical&hide_border=true" alt="deepneurax" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdulmanan69&repo=deepneurax&theme=radical&hide_border=true" alt="deepneurax" />
   </a>
 </p>
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulmanan69&theme=radical&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies" />
+  <a href="https://github.com/abdulmanan69">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulmanan69&theme=radical" alt="GitHub Profile Details" />
   </a>
 </p>
 
@@ -97,3 +97,6 @@ I'm **Abdul Manan**, a passionate developer dedicated to building innovative tec
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i>
 </p>
+
+
+live
